@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 100%;
+    height: 10px;
+    text-align: center  ;
+}
+.slogan{
+    width: 25%;
+}
+.inti{
+    width: 50%;
+    text-align: center;
+}
+.search{
+    width: 15%;
+}
+.account{
+    width: 7.5%;
+}
+.keranjang{
+    width: 7.5%;
+}
